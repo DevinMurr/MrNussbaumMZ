@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1487197743,
+	"version": 1487353273,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -78,6 +78,9 @@
 		"images/obj_wronganswerbutton-sheet1.png",
 		"images/obj_correctanswerbutton-sheet0.png",
 		"images/obj_correctanswerbutton-sheet1.png",
+		"images/obj_answertextbackground-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
 		"media/buttonclicked.ogg",
 		"media/menumusic.ogg",
 		"media/receivingkey.ogg",
